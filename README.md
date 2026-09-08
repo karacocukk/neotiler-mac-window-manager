@@ -314,7 +314,7 @@ Built by an independent developer who switched from Windows to macOS and was fru
 
 NeoTiler is proprietary software. This repository contains documentation, release notes, and community resources only — no source code.
 
-Copyright © 2024-2026 NeoTiler by C-Software Studio. All rights reserved.
+Copyright © 2026 NeoTiler by C-Software Studio. All rights reserved.
 
 ---
 
