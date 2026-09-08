@@ -304,7 +304,7 @@ See [CHANGELOG.md](CHANGELOG.md) for a detailed list of changes in each version.
 
 ## 👨‍💻 About
 
-NeoTiler is created by **[Veysel Okatan](https://www.linkedin.com/in/veysel-okatan-272045238/)** at **[C-Software Studio](https://www.linkedin.com/company/c-software-studio/)**.
+NeoTiler is created by **[Veysel Okatan](https://www.linkedin.com/in/veysel-okatan/)** at **[C-Software Studio](https://www.linkedin.com/company/c-software-studio/)**.
 
 Built by an independent developer who switched from Windows to macOS and was frustrated by the lack of proper window management. NeoTiler is the tool he wished existed.
 
