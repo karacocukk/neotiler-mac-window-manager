@@ -93,3 +93,41 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Improved
 - Refactored license handling to single-bundle Keychain JSON.
 - Optimized dock previews with close buttons, right-click support, and better performance.
+
+## [1.1.7] - 2026-07-28
+### Added
+- Auto-update system (Sparkle Integration).
+### Fixed
+- Multi-monitor layout restore fixes.
+
+## [1.1.6] - 2026-07-25
+### Added
+- Implement trial system, upsell UI, and instance-based license deactivation tracking.
+### Fixed
+- Multi-window layout fix and AppleScript automation permissions.
+
+## [1.1.2] - 2026-07-20
+### Added
+- Cursor Sync feature with localization and improvements.
+- Input device selection (Trackpad/Mouse) to Gesture Recorder.
+
+## [1.1.1] - 2026-07-15
+### Added
+- Custom Trackpad Gesture System and translations.
+### Improved
+- Optimize workspace restoration timing (0.2s delay).
+- Flattened OpenMultitouchSupportXCF framework to resolve signing ambiguity.
+
+## [1.1.0] - 2026-07-10
+### Added
+- Customizable App Switcher Hotkey & UI/Localization Improvements.
+
+## [1.0.9] - 2026-07-05
+### Added
+- First public stable release of NeoTiler.
+- License Activation & Verification System.
+- Preferences UI styling improvements.
+### Fixed
+- Localization detection issues in DMG builds.
+- Fixed Ignore List to only block manual snap while auto-rules work independently.
+- Hotkey system improvements and conflict resolution.
