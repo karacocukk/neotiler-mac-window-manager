@@ -184,7 +184,7 @@ No subscriptions. No hidden fees. No upsells.
 
 ## 📋 Installation
 
-1. **Download** NeoTiler from [getneotiler.com](https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo) or the [Releases](https://github.com/user/neotiler-mac-window-manager/releases) page
+1. **Download** NeoTiler from [getneotiler.com](https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo) or the [Releases](https://github.com/karacocukk/neotiler-mac-window-manager/releases) page
 2. **Open** the `.dmg` file and drag NeoTiler to Applications
 3. **Launch** NeoTiler — it will appear in your menu bar
 4. **Grant** Accessibility permission when prompted
@@ -273,7 +273,7 @@ macOS 13 Ventura through macOS 26 Tahoe (and future versions).
 <details>
 <summary><strong>How do I get support?</strong></summary>
 <br>
-Open an <a href="https://github.com/user/neotiler-mac-window-manager/issues">Issue</a> here on GitHub or email <a href="mailto:support@getneotiler.com">support@getneotiler.com</a>.
+Open an <a href="https://github.com/karacocukk/neotiler-mac-window-manager/issues">Issue</a> here on GitHub or email <a href="mailto:support@getneotiler.com">support@getneotiler.com</a>.
 </details>
 
 ---
@@ -290,9 +290,9 @@ NeoTiler is fully localized in **11 languages**:
 
 Found a bug? Have a feature idea? We'd love to hear from you!
 
-- **🐛 Bug Reports:** [Open an Issue](https://github.com/user/neotiler-mac-window-manager/issues/new?template=bug_report.md)
-- **💡 Feature Requests:** [Open an Issue](https://github.com/user/neotiler-mac-window-manager/issues/new?template=feature_request.md)
-- **💬 General Discussion:** [Open an Issue](https://github.com/user/neotiler-mac-window-manager/issues/new)
+- **🐛 Bug Reports:** [Open an Issue](https://github.com/karacocukk/neotiler-mac-window-manager/issues/new?template=bug_report.md)
+- **💡 Feature Requests:** [Open an Issue](https://github.com/karacocukk/neotiler-mac-window-manager/issues/new?template=feature_request.md)
+- **💬 General Discussion:** [Open an Issue](https://github.com/karacocukk/neotiler-mac-window-manager/issues/new)
 
 ---
 
