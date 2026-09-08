@@ -81,13 +81,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - **Custom Snap Area Management** — Delete, deactivate, and manage snap areas easily.
 - Smart Snapshot Memory (WindowID based) and log cleaning.
 
-## [1.9.1] - 2026-08-05
+## [1.2.1] - 2026-08-05
 ### Fixed
 - Resolved ghost window thumbnails issue.
 - Fixed shadow styling glitches.
 - Fixed AppleScript close handler bugs.
 
-## [1.9.0] - 2026-08-01
+## [1.2.0] - 2026-08-01
 ### Added
 - License security layer update (Keychain + Machine ID + Clone protection).
 ### Improved
