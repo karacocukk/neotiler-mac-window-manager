@@ -6,98 +6,90 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
-## [2.3.1] — 2026-09-01
+## [2.3.2] - 2026-09-08
+### Added
+- Complete localization parity across 11 languages for trial and error messages.
+### Improved
+- Streamlined licensing flow by removing the trial modal gate on the website.
+- Added direct download capabilities directly from `getneotiler.com`.
 
+## [2.3.1] - 2026-09-08
+### Improved
+- General stability improvements and safe checkpointing.
+
+## [2.3.0] - 2026-09-07
+### Added
+- Finder can now be added to the ignore list, preventing unwanted snapping of Finder windows.
+### Improved
+- Updated Trial Feedback View with email input and styling fixes.
+
+## [2.2.7] - 2026-09-06
+### Added
+- Multi-monitor support for custom snap areas.
 ### Fixed
-- Resolved a rare crash when switching between monitors with different DPI settings
-- Fixed drag-to-edge overlay not appearing correctly on external monitors with notch displays
-- Improved stability of cursor sync when rapidly moving between 3+ monitors
+- UI bug fixes for localization and custom snap builder.
+- Resolved shortcut deletion issues.
+- Fixed screen detection issues.
+- Fixed Dock overlap when snapping windows to the right/left/bottom of the screen.
 
-### Improved
-- Reduced memory footprint by ~15% during idle state
-- Smoother snap animations on Apple Silicon Macs (M3/M4/M5)
-
----
-
-## [2.3.0] — 2026-08-15
-
+## [2.2.4] - 2026-09-05
 ### Added
-- **Windows-Style Taskbar** — A familiar bottom taskbar for quick window switching and previews
-- **Auto-Snap Rules** — Define default positions for specific apps (e.g., Safari always opens on the left)
-- **Magnetic Grid Snap** — Windows snap to nearby grid lines as you drag them
-
+- 24-hour background validation timer for subscription licenses.
 ### Improved
-- Advanced App Switcher now shows window thumbnails in real-time
-- Reduced startup time by 40%
-- Better compatibility with macOS 26 Tahoe beta
+- Continuous tracking of trial expiration alongside license validation.
 
+## [2.2.3] - 2026-09-04
 ### Fixed
-- Fixed workspace restoration failing when an app had been updated
-- Resolved keyboard shortcut conflicts with some third-party apps
+- Ignored hidden apps on save and unminimized docked windows on workspace restore.
+- Fixed SwiftUI alert bug by using NSAlert for shortcut conflicts.
 
----
-
-## [2.2.9] — 2026-07-20
-
+## [2.2.2] - 2026-09-03
 ### Added
-- **Cursor Sync** — Seamlessly teleport your cursor between multi-monitor setups
-- **Custom Snap Areas** — Define any arbitrary region on your screen as a snap target
+- Sparkle critical update system.
+- Critical update translations for all supported languages.
 
-### Improved
-- Drag-to-edge snap now supports all four corners for quarter-screen layouts
-- Updated localization for all 11 supported languages
-- Improved accessibility VoiceOver support
-
+## [2.2.1] - 2026-09-02
 ### Fixed
-- Fixed an issue where shake-to-focus sensitivity was too high on some trackpads
-- Resolved a visual glitch in the snap overlay when using dark mode with reduced transparency
+- Fixed duplicate translations and updated missing languages.
 
----
-
-## [2.2.0] — 2026-06-01
-
+## [2.2.0] - 2026-09-01
 ### Added
-- **Advanced App Switcher** — Beautiful `⌘ + Tab` replacement with search and previews
-- **Shake to Focus** — Shake a window to minimize all others
-- **Trackpad Gestures** — Control windows with natural swipe and pinch gestures
+- **Keyboard Lock Feature** — Quickly lock your keyboard using a shortcut.
+- Simplified Chinese localization added to the language selection.
 
+## [2.1.2] - 2026-08-28
+### Fixed
+- Added CoreFoundation type safety checks (CFGetTypeID) to prevent AXUIElement casting crashes.
+
+## [2.1.1] - 2026-08-25
 ### Improved
-- Complete UI redesign of Preferences window
-- Faster workspace save/restore operations
-- Better Stage Manager compatibility
+- Completed all localizations for Trial Feedback View.
 
----
-
-## [2.1.0] — 2026-04-15
-
-### Added
-- **Smart Workspaces** — Save and restore complete window layouts with `⌘ + ⌥ + 1/2/3`
-- 11-language localization (English, Turkish, Japanese, German, Spanish, French, Italian, Danish, Dutch, Polish, Chinese)
-
+## [2.1.0] - 2026-08-20
 ### Improved
-- Multi-monitor window moving now preserves relative positioning
-- Snap animations are now buttery smooth at 120fps on ProMotion displays
+- Full localization parity.
+- Enhanced hotkey conflict resolution logic.
+- Reduced global tooltip delay to 0.5s for faster interactions.
 
----
+## [2.0.1] - 2026-08-15
+### Fixed
+- Filtered closed application windows from the App Switcher to prevent ghost apps.
 
-## [2.0.0] — 2026-02-01
-
+## [2.0.0] - 2026-08-10
 ### Added
-- Complete rewrite in SwiftUI
-- Multi-monitor support with independent snap zones
-- Customizable keyboard shortcuts
-- Menu bar integration with quick-access snap positions
-- 14-day free trial system
-- Drag-to-edge snap with visual overlay
-- Halves, quarters, and thirds snap layouts
-- Native dark mode support
-- Accessibility permission auto-management
+- Complete rewrite and major version release.
+- **Custom Snap Area Management** — Delete, deactivate, and manage snap areas easily.
+- Smart Snapshot Memory (WindowID based) and log cleaning.
 
----
+## [1.9.1] - 2026-08-05
+### Fixed
+- Resolved ghost window thumbnails issue.
+- Fixed shadow styling glitches.
+- Fixed AppleScript close handler bugs.
 
-[2.3.1]: https://getneotiler.com
-[2.3.0]: https://getneotiler.com
-[2.2.9]: https://getneotiler.com
-[2.2.0]: https://getneotiler.com
-[2.1.0]: https://getneotiler.com
-[2.0.0]: https://getneotiler.com
+## [1.9.0] - 2026-08-01
+### Added
+- License security layer update (Keychain + Machine ID + Clone protection).
+### Improved
+- Refactored license handling to single-bundle Keychain JSON.
+- Optimized dock previews with close buttons, right-click support, and better performance.
