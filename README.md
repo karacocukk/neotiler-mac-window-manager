@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://getneotiler.com"><img src="https://img.shields.io/badge/Website-getneotiler.com-blue?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
-  <a href="https://getneotiler.com"><img src="https://img.shields.io/badge/macOS-13%2B%20(Ventura%20→%20Tahoe)-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS 13+"></a>
-  <a href="https://getneotiler.com"><img src="https://img.shields.io/badge/Architecture-Universal%20Binary-8B5CF6?style=for-the-badge&logo=apple&logoColor=white" alt="Universal Binary"></a>
-  <a href="https://getneotiler.com"><img src="https://img.shields.io/badge/Price-%249.99%20Lifetime-10B981?style=for-the-badge&logo=creditcard&logoColor=white" alt="Price"></a>
-  <a href="https://getneotiler.com"><img src="https://img.shields.io/badge/Privacy-Zero%20Data%20Collection-EF4444?style=for-the-badge&logo=shield&logoColor=white" alt="Privacy"></a>
+  <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/Website-getneotiler.com-blue?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
+  <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/macOS-13%2B%20(Ventura%20→%20Tahoe)-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS 13+"></a>
+  <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/Architecture-Universal%20Binary-8B5CF6?style=for-the-badge&logo=apple&logoColor=white" alt="Universal Binary"></a>
+  <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/Price-%249.99%20Lifetime-10B981?style=for-the-badge&logo=creditcard&logoColor=white" alt="Price"></a>
+  <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/Privacy-Zero%20Data%20Collection-EF4444?style=for-the-badge&logo=shield&logoColor=white" alt="Privacy"></a>
 </p>
 
 <p align="center">
-  <a href="https://getneotiler.com"><img src="https://img.shields.io/badge/⬇_DOWNLOAD_FREE_TRIAL-14_Days_Full_Features-FF6B35?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="Download Free Trial"></a>
+  <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/⬇_DOWNLOAD_FREE_TRIAL-14_Days_Full_Features-FF6B35?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="Download Free Trial"></a>
 </p>
 
 ---
@@ -166,7 +166,7 @@ NeoTiler is built with a **privacy-first** philosophy:
 No subscriptions. No hidden fees. No upsells.
 
 <p align="center">
-  <a href="https://getneotiler.com"><img src="https://img.shields.io/badge/⬇_GET_NEOTILER-$9.99_Lifetime-FF6B35?style=for-the-badge&labelColor=1a1a2e" alt="Get NeoTiler"></a>
+  <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/⬇_GET_NEOTILER-$9.99_Lifetime-FF6B35?style=for-the-badge&labelColor=1a1a2e" alt="Get NeoTiler"></a>
 </p>
 
 ---
@@ -184,7 +184,7 @@ No subscriptions. No hidden fees. No upsells.
 
 ## 📋 Installation
 
-1. **Download** NeoTiler from [getneotiler.com](https://getneotiler.com) or the [Releases](https://github.com/user/neotiler-mac-window-manager/releases) page
+1. **Download** NeoTiler from [getneotiler.com](https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo) or the [Releases](https://github.com/user/neotiler-mac-window-manager/releases) page
 2. **Open** the `.dmg` file and drag NeoTiler to Applications
 3. **Launch** NeoTiler — it will appear in your menu bar
 4. **Grant** Accessibility permission when prompted
@@ -198,31 +198,31 @@ No subscriptions. No hidden fees. No upsells.
 
 Rectangle Free is limited to basic snapping. Rectangle Pro costs $9.99 but still lacks gestures, a taskbar, and shake-to-focus. NeoTiler includes **everything** for the same price.
 
-👉 [Full Comparison: NeoTiler vs Rectangle](https://getneotiler.com/rectangle-alternative)
+👉 [Full Comparison: NeoTiler vs Rectangle](https://getneotiler.com/rectangle-alternative?utm_source=github&utm_medium=readme&utm_campaign=public_repo)
 
 ### vs Magnet
 
 Magnet ($9.99) offers basic snapping but no custom snap areas, no workspaces, no gestures, and no taskbar. NeoTiler does all of that and more.
 
-👉 [Full Comparison: NeoTiler vs Magnet](https://getneotiler.com/magnet-alternative)
+👉 [Full Comparison: NeoTiler vs Magnet](https://getneotiler.com/magnet-alternative?utm_source=github&utm_medium=readme&utm_campaign=public_repo)
 
 ### vs Moom
 
 Moom ($14.99) is powerful but dated. No trackpad gestures, no taskbar, no modern SwiftUI interface. NeoTiler is faster, more modern, and cheaper.
 
-👉 [Full Comparison: NeoTiler vs Moom](https://getneotiler.com/moom-alternative)
+👉 [Full Comparison: NeoTiler vs Moom](https://getneotiler.com/moom-alternative?utm_source=github&utm_medium=readme&utm_campaign=public_repo)
 
 ### vs BetterSnapTool
 
 BetterSnapTool ($2.99) has custom snap areas but lacks workspaces, gestures, app switcher, and a taskbar. NeoTiler is the complete package.
 
-👉 [Full Comparison: NeoTiler vs BetterSnapTool](https://getneotiler.com/bettersnaptool-alternative)
+👉 [Full Comparison: NeoTiler vs BetterSnapTool](https://getneotiler.com/bettersnaptool-alternative?utm_source=github&utm_medium=readme&utm_campaign=public_repo)
 
 ### vs macOS Built-in Tiling
 
 macOS Sequoia introduced basic tiling, but it only supports halves and quarters. No custom areas, no workspaces, no gestures, no keyboard customization.
 
-👉 [Full Comparison: NeoTiler vs macOS Built-in Tiling](https://getneotiler.com/macos-tiling-alternative)
+👉 [Full Comparison: NeoTiler vs macOS Built-in Tiling](https://getneotiler.com/macos-tiling-alternative?utm_source=github&utm_medium=readme&utm_campaign=public_repo)
 
 ---
 
@@ -319,7 +319,7 @@ Copyright © 2024-2026 NeoTiler by C-Software Studio. All rights reserved.
 ---
 
 <p align="center">
-  <a href="https://getneotiler.com"><img src="https://img.shields.io/badge/⬇_DOWNLOAD_NEOTILER-getneotiler.com-FF6B35?style=for-the-badge&labelColor=1a1a2e" alt="Download NeoTiler"></a>
+  <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/⬇_DOWNLOAD_NEOTILER-getneotiler.com-FF6B35?style=for-the-badge&labelColor=1a1a2e" alt="Download NeoTiler"></a>
 </p>
 
 <p align="center">
