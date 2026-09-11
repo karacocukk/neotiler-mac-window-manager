@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/neotiler-banner.jpeg" alt="NeoTiler - The macOS Window Manager That Just Works" width="100%">
+  <img src="assets/neotiler-banner.jpeg" alt="NeoTiler: The macOS Window Manager That Just Works" width="100%">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ Here is an honest comparison of how NeoTiler stacks up against the competition i
 | Zero Data Collection | ✅ | ❌ | **✅** |
 | Price | Free / $9.99+ (Pro) | $4.99–$9.99 | **$9.99 Lifetime** |
 
-NeoTiler isn't just a basic snapping tool - it's a complete workspace control system. **One app. One purchase. Total control.**
+NeoTiler isn't just a basic snapping tool, it's a complete workspace control system. **One app. One purchase. Total control.**
 
 ---
 
@@ -77,7 +77,7 @@ Snap any window to halves, quarters, thirds, or custom positions with fully cust
 
 ### 🖱️ Drag-to-Edge Snap
 
-Drag a window to any screen edge or corner - a visual overlay shows where it will snap. Release to confirm. Just like Windows, but better.
+Drag a window to any screen edge or corner and a visual overlay shows where it will snap. Release to confirm. Just like Windows, but better.
 
 <p align="center">
   <video src="assets/demo-hero.mp4" alt="Drag-to-Edge Snap Demo" width="480" autoplay loop muted playsinline></video>
@@ -85,7 +85,7 @@ Drag a window to any screen edge or corner - a visual overlay shows where it wil
 
 ### 🎯 Custom Snap Areas (Magnetic Grid)
 
-Create **your own** snap zones - define any region on your screen as a snap target. Go beyond rigid halves and quarters.
+Create **your own** snap zones by defining any region on your screen as a snap target. Go beyond rigid halves and quarters.
 
 <p align="center">
   <video src="assets/demo-custom-snap.mp4" alt="Custom Snap Areas Demo" width="480" autoplay loop muted playsinline></video>
@@ -102,7 +102,7 @@ Save and restore complete window layouts. Switch between "Coding Mode", "Design 
 
 ### 🖐️ Trackpad & Mouse Gestures
 
-Control windows with natural gestures - swipe, pinch, or use custom mouse button combinations.
+Control windows with natural gestures like swiping, pinching, or using custom mouse button combinations.
 
 <p align="center">
   <video src="assets/demo-gestures.mp4" alt="Trackpad Gestures Demo" width="480" autoplay loop muted playsinline></video>
@@ -128,7 +128,7 @@ A beautiful, powerful replacement for `⌘ + Tab` with window previews, search, 
 
 - Independent snap zones per display
 - Move windows between monitors with `⌘ + ⌥ + [ / ]`
-- **Cursor Sync** - your cursor teleports between screens seamlessly
+- **Cursor Sync:** your cursor teleports between screens seamlessly
 - Relative positioning preserved when moving windows
 
 ### 📌 Auto-Snap Rules
@@ -141,7 +141,7 @@ A familiar taskbar at the bottom of your screen for quick window switching, prev
 
 ### 🌗 Native Dark Mode
 
-Built with SwiftUI - automatically follows your system appearance. Looks gorgeous in both light and dark modes.
+Built with SwiftUI, it automatically follows your system appearance. Looks gorgeous in both light and dark modes.
 
 ---
 
@@ -149,11 +149,11 @@ Built with SwiftUI - automatically follows your system appearance. Looks gorgeou
 
 NeoTiler is built with a **privacy-first** philosophy:
 
-- **Zero data collection** - no analytics, no telemetry, no tracking
-- **100% local processing** - everything runs on your Mac
-- **No internet required** - works fully offline after activation
-- **No subscription** - buy once, own forever
-- **Notarized by Apple** - verified safe by Apple's security checks
+- **Zero data collection:** no analytics, no telemetry, no tracking
+- **100% local processing:** everything runs on your Mac
+- **No internet required:** works fully offline after activation
+- **No subscription:** buy once, own forever
+- **Notarized by Apple:** verified safe by Apple's security checks
 
 > NeoTiler only requires Accessibility permission to read and move window positions. No other permissions needed.
 
@@ -191,7 +191,7 @@ No subscriptions. No hidden fees. No upsells.
 
 1. **Download** NeoTiler from [getneotiler.com](https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo) or the [Releases](https://github.com/karacocukk/neotiler-mac-window-manager/releases) page
 2. **Open** the `.dmg` file and drag NeoTiler to Applications
-3. **Launch** NeoTiler - it will appear in your menu bar
+3. **Launch** NeoTiler, and it will appear in your menu bar
 4. **Grant** Accessibility permission when prompted
 5. **Start snapping** windows with keyboard shortcuts or drag-to-edge!
 
@@ -317,7 +317,7 @@ Built by an independent developer who switched from Windows to macOS and was fru
 
 ## 📄 License
 
-NeoTiler is proprietary software. This repository contains documentation, release notes, and community resources only - no source code.
+NeoTiler is proprietary software. This repository contains documentation, release notes, and community resources only (no source code).
 
 Copyright © 2026 NeoTiler by C-Software Studio. All rights reserved.
 
