@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/neotiler-banner.jpeg" alt="NeoTiler: The macOS Window Manager That Just Works" width="100%">
+  <img src="assets/neotiler-banner.jpeg" alt="NeoTiler - The macOS Window Manager That Just Works" width="100%">
 </p>
 
 <p align="center">
