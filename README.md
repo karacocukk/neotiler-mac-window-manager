@@ -30,24 +30,29 @@
 
 ---
 
-## 🤔 Why NeoTiler?
+## 🆚 Magnet vs Rectangle vs NeoTiler (2026 Comparison)
 
-macOS window management is **broken by default**. The built-in tiling only supports basic halves and quarters — no custom areas, no workspaces, no gestures.
+If you are looking for a **Magnet alternative** or a **Rectangle Pro alternative**, you've probably noticed that most window managers offer the exact same basic features: snapping to halves and quarters. 
 
-NeoTiler fixes this. **One app. One purchase. Total control.**
+NeoTiler was built from the ground up to be the ultimate, modern macOS window manager. We completely eliminated subscriptions and added the advanced power-user features that others ignore. 
 
-| Pain Point | macOS Built-in | NeoTiler |
-|:---|:---:|:---:|
-| Custom snap areas | ❌ | ✅ |
-| Smart Workspaces | ❌ | ✅ |
-| Trackpad gestures | ❌ | ✅ |
-| Thirds / sixths layouts | ❌ | ✅ |
-| Multi-monitor cursor sync | ❌ | ✅ |
-| App Switcher replacement | ❌ | ✅ |
-| Windows-style taskbar | ❌ | ✅ |
-| Shake to focus | ❌ | ✅ |
-| Auto-snap rules | ❌ | ✅ |
-| Zero data collection | ⚠️ | ✅ |
+Here is an honest comparison of how NeoTiler stacks up against the competition in 2026:
+
+| Feature | Rectangle | Magnet | **NeoTiler** |
+|:---|:---:|:---:|:---:|
+| Basic Window Snapping | ✅ | ✅ | **✅** |
+| Custom Snap Areas | Pro Only | ❌ | **✅** |
+| Smart Workspaces | Pro Only | ❌ | **✅** |
+| Cursor Sync & Custom Snap Zones | ❌ | ❌ | **✅** |
+| Auto Snap Rules | Pro Only | ❌ | **✅** |
+| Mouse & Trackpad Gestures | ❌ | ❌ | **✅** |
+| Shake to Focus | ❌ | ❌ | **✅** |
+| Advanced App Switcher | ❌ | ❌ | **✅** |
+| Windows-Style Taskbar | ❌ | ❌ | **✅** |
+| Zero Data Collection | ✅ | ❌ | **✅** |
+| Price | Free / $9.99+ (Pro) | $4.99–$9.99 | **$9.99 Lifetime** |
+
+NeoTiler isn't just a basic snapping tool — it's a complete workspace control system. **One app. One purchase. Total control.**
 
 ---
 
