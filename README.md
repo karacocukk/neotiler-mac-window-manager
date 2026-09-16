@@ -285,9 +285,9 @@ Open an <a href="https://github.com/karacocukk/neotiler-mac-window-manager/issue
 
 ## 🌍 Available Languages
 
-NeoTiler is fully localized in **11 languages**:
+NeoTiler is fully localized in **12 languages**:
 
-🇬🇧 English · 🇹🇷 Türkçe · 🇯🇵 日本語 · 🇩🇪 Deutsch · 🇪🇸 Español · 🇫🇷 Français · 🇮🇹 Italiano · 🇩🇰 Dansk · 🇳🇱 Nederlands · 🇵🇱 Polski · 🇨🇳 简体中文
+🇬🇧 English · 🇹🇷 Türkçe · 🇯🇵 日本語 · 🇩🇪 Deutsch · 🇪🇸 Español · 🇫🇷 Français · 🇮🇹 Italiano · 🇩🇰 Dansk · 🇳🇱 Nederlands · 🇵🇱 Polski · 🇨🇳 简体中文 · 🇰🇷 한국어
 
 ---
 
