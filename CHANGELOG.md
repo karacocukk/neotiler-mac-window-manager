@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
+## [2.3.4] - 2026-09-19
+### Added
+- **Enhanced Dock Previews:** New preference to keep the Dock preview panel open after selecting a window.
+- **Global Refinements & New Language:** NeoTiler now fully supports Korean (한국어)!
+
+### Improved
+- **Ultimate Efficiency:** Fundamentally re-architected background event engines, reducing CPU footprint to an absolute minimum.
+- **Multi-Display & Layout Mastery:** Dock previews now seamlessly align to left, right, and bottom Dock orientations across all monitors.
+- **Smart Interaction Shield:** Native right-click menus from the Dock are now supported without accidental preview overlaps.
+- **Language Updates:** Comprehensive updates to all 12 supported languages.
+
 ## [2.3.2] - 2026-09-08
 ### Added
 - Added full language support for 11 languages across all menus and dialogs.
