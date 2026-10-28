@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
+## [2.4.1] - 2026-10-29
+### Fixed
+- **Accidental Drag-Snap Prevention:** Fixed an issue where switching focus between windows or copying and pasting text across split windows could inadvertently trigger an unexpected corner snap.
+- **Precision Window Recognition:** Implemented coordinate-based window identity verification on initial click, preventing false drag gestures and eliminating unnecessary CPU overhead.
+
 ## [2.4.0] - 2026-10-28
 ### Added
 - **Multi-Display Window Movement:** Easily cycle active windows across connected displays using dedicated shortcuts (`⌃⌥⌘→` for Next Display and `⌃⌥⌘←` for Previous Display).
