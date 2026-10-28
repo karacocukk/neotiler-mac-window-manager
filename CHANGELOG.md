@@ -6,6 +6,29 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
+## [2.4.0] - 2026-10-28
+### Added
+- **Multi-Display Window Movement:** Easily cycle active windows across connected displays using dedicated shortcuts (`⌃⌥⌘→` for Next Display and `⌃⌥⌘←` for Previous Display).
+- **Smart Proportional Layouts:** Intelligently detects window layouts (Full Screen, Halves, Quarters, Thirds, Centered, or Custom) and scales them proportionally to the target monitor's resolution and visible screen area.
+- **Display Shortcuts Management:** Fully integrated into **Preferences → Snap Shortcuts** with custom shortcut recording, reset to defaults, and quick removal.
+
+### Improved
+- **Zero-Flicker Screen Transfer:** Implemented WindowServer screen update suppression to ensure seamless, glitch-free window movement across monitors.
+- **UI Refinements:** Polished helper text layouts and styling consistency across the Rules and Workspaces preferences tabs.
+- **Localization Updates:** Native translations for new multi-display actions across all 12 supported languages.
+
+## [2.3.9] - 2026-10-18
+### Improved
+- **Window Preview Filtering:** Smarter filtering in Dock Previews and App Switcher to ignore transient and auxiliary overlay windows (such as in-page find bars in browsers like Google Chrome) while preserving genuine popups and dialogues.
+
+## [2.3.8] - 2026-10-12
+### Fixed
+- **Dock Context Menu Interaction:** Fixed an issue where the Dock Preview panel could inadvertently appear over native macOS right-click menus when quickly right-clicking a Dock icon.
+
+## [2.3.7] - 2026-10-07
+### Fixed
+- **Trackpad Stability:** Resolved a crash issue related to multitouch event handling on MacBooks equipped with T2 security chips and Apple Silicon.
+
 ## [2.3.4] - 2026-09-19
 ### Added
 - **Enhanced Dock Previews:** New preference to keep the Dock preview panel open after selecting a window.

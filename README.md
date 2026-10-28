@@ -127,7 +127,7 @@ A beautiful, powerful replacement for `⌘ + Tab` with window previews, search, 
 ### 🖥️ Multi-Monitor Support
 
 - Independent snap zones per display
-- Move windows between monitors with `⌘ + ⌥ + [ / ]`
+- Move windows between monitors with `⌃ + ⌥ + ⌘ + ← / →`
 - **Cursor Sync:** your cursor teleports between screens seamlessly
 - Relative positioning preserved when moving windows
 
