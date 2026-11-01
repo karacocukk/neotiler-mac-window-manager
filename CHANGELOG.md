@@ -13,9 +13,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [2.4.0] - 2026-10-28
 ### Added
-- **Multi-Display Window Movement:** Easily cycle active windows across connected displays using dedicated shortcuts (`⌃⌥⌘→` for Next Display and `⌃⌥⌘←` for Previous Display).
-- **Smart Proportional Layouts:** Intelligently detects window layouts (Full Screen, Halves, Quarters, Thirds, Centered, or Custom) and scales them proportionally to the target monitor's resolution and visible screen area.
-- **Display Shortcuts Management:** Fully integrated into **Preferences → Snap Shortcuts** with custom shortcut recording, reset to defaults, and quick removal.
+- **Multi-Display Window Movement (Preserving SizeUp Muscle Memory):** Directly built following user feedback from a long-time SizeUp user. You can now seamlessly cycle active windows across connected monitors without touching your mouse, using the exact muscle-memory keystrokes power users have relied on for over a decade (`⌃⌥⌘→` for Next Display and `⌃⌥⌘←` for Previous Display).
+- **Smart Proportional Layouts:** Intelligently detects the window's current layout (Full Screen, Halves, Quarters, Thirds, Centered, or Custom) and scales it proportionally to the target monitor's resolution and visible screen area.
+- **Full Shortcut Customization:** Mapped to SizeUp's classic defaults out of the box so you don't have to configure anything, but fully customizable under **Preferences → Snap Shortcuts** with custom recording, reset, and quick removal.
 
 ### Improved
 - **Zero-Flicker Screen Transfer:** Implemented WindowServer screen update suppression to ensure seamless, glitch-free window movement across monitors.
