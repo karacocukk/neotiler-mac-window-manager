@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/Website-getneotiler.com-blue?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
-  <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/macOS-13%2B%20(Ventura%20→%20Tahoe)-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS 13+"></a>
+  <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/macOS-13%2B%20(Ventura%20→%20Golden%20Gate)-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS 13+"></a>
   <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/Architecture-Universal%20Binary-8B5CF6?style=for-the-badge&logo=apple&logoColor=white" alt="Universal Binary"></a>
   <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/Price-%249.99%20Lifetime-10B981?style=for-the-badge&logo=creditcard&logoColor=white" alt="Price"></a>
   <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/Privacy-Zero%20Data%20Collection-EF4444?style=for-the-badge&logo=shield&logoColor=white" alt="Privacy"></a>
@@ -193,7 +193,7 @@ No subscriptions. No hidden fees. No upsells.
 
 | Requirement | Minimum |
 |:---|:---|
-| **macOS** | 13.0 Ventura or later (up to macOS 26 Tahoe) |
+| **macOS** | 13.0 Ventura or later (up to macOS 27 Golden Gate) |
 | **Architecture** | Intel (x86_64) or Apple Silicon (M1–M6) |
 | **Disk Space** | ~25 MB |
 | **Permissions** | Accessibility (required) |
@@ -285,7 +285,7 @@ Yes! 14-day free trial with all features unlocked. No credit card required.
 <details>
 <summary><strong>What macOS versions are supported?</strong></summary>
 <br>
-macOS 13 Ventura through macOS 26 Tahoe (and future versions).
+macOS 13 Ventura through macOS 27 Golden Gate (and future versions).
 </details>
 
 <details>
