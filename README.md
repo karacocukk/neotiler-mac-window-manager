@@ -18,6 +18,8 @@
   <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/⬇_DOWNLOAD_FREE_TRIAL-14_Days_Full_Features-FF6B35?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="Download Free Trial"></a>
 </p>
 
+> **🎁 Black Friday 2026:** Get the Lifetime License for **$6.99** (30% off) with code **`BF30`** until **December 1, 2026**. [Claim the deal →](https://getneotiler.com/#pricing?utm_source=github&utm_medium=readme&utm_campaign=black_friday_2026)
+
 ---
 
 ## 🎬 See It in Action
@@ -127,17 +129,26 @@ A beautiful, powerful replacement for `⌘ + Tab` with window previews, search, 
 ### 🖥️ Multi-Monitor Support
 
 - Independent snap zones per display
-- Move windows between monitors with `⌃ + ⌥ + ⌘ + ← / →`
+- **Multi-Display Window Movement:** send the active window to the next or previous display with `⌃ + ⌥ + ⌘ + → / ←`
+- **Smart Proportional Layouts:** halves, quarters, thirds, centered, or custom layouts are scaled to the target display's resolution and visible area
 - **Cursor Sync:** your cursor teleports between screens seamlessly
-- Relative positioning preserved when moving windows
+- Zero-flicker transfer between monitors
+
+> Every display shortcut is fully customizable in **Preferences → Snap Shortcuts**.
+
+### 🔄 Coming from SizeUp?
+
+SizeUp stopped working reliably on recent macOS versions, and the muscle memory it built is hard to replace. NeoTiler's multi-display shortcuts (`⌃ + ⌥ + ⌘ + → / ←`) use the same keys by default, so your fingers keep working from day one.
+
+If you prefer different keys, change them any time. Everything that can be customized should be customizable.
 
 ### 📌 Auto-Snap Rules
 
 Define where specific apps should always open. Safari always on the left? Terminal always bottom-right? Set it once, forget it forever.
 
-### 🪟 Windows-Style Taskbar
+### 🪟 Windows-Style Taskbar & Live Dock Previews
 
-A familiar taskbar at the bottom of your screen for quick window switching, previews, and management.
+A familiar taskbar at the bottom of your screen for quick window switching, previews, and management. Hover over an app in the Dock to see live thumbnails of its open windows and jump straight to the one you need.
 
 ### 🌗 Native Dark Mode
 
@@ -165,10 +176,12 @@ NeoTiler is built with a **privacy-first** philosophy:
 |:---|:---:|:---:|
 | Duration | 14 days | Forever |
 | All features | ✅ | ✅ |
-| Updates | ✅ | ✅ |
+| Updates | ✅ | ✅ Free forever, including major versions |
 | Price | Free | **$9.99** (one-time) |
 
 No subscriptions. No hidden fees. No upsells.
+
+> **Black Friday 2026:** **$6.99** with code `BF30` until December 1, 2026.
 
 <p align="center">
   <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/⬇_GET_NEOTILER-$9.99_Lifetime-FF6B35?style=for-the-badge&labelColor=1a1a2e" alt="Get NeoTiler"></a>
@@ -181,7 +194,7 @@ No subscriptions. No hidden fees. No upsells.
 | Requirement | Minimum |
 |:---|:---|
 | **macOS** | 13.0 Ventura or later (up to macOS 26 Tahoe) |
-| **Architecture** | Intel (x86_64) or Apple Silicon (M1–M5) |
+| **Architecture** | Intel (x86_64) or Apple Silicon (M1–M6) |
 | **Disk Space** | ~25 MB |
 | **Permissions** | Accessibility (required) |
 
@@ -240,7 +253,7 @@ One-time purchase of $9.99. No subscriptions, no recurring fees. You own it fore
 </details>
 
 <details>
-<summary><strong>Does NeoTiler work on Apple Silicon (M1/M2/M3/M4/M5)?</strong></summary>
+<summary><strong>Does NeoTiler work on Apple Silicon (M1 to M6)?</strong></summary>
 <br>
 Yes! NeoTiler is a Universal Binary that runs natively on both Intel and Apple Silicon Macs.
 </details>
