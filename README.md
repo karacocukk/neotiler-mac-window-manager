@@ -12,6 +12,7 @@
   <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/Architecture-Universal%20Binary-8B5CF6?style=for-the-badge&logo=apple&logoColor=white" alt="Universal Binary"></a>
   <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/Price-%249.99%20Lifetime-10B981?style=for-the-badge&logo=creditcard&logoColor=white" alt="Price"></a>
   <a href="https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo"><img src="https://img.shields.io/badge/Privacy-Zero%20Data%20Collection-EF4444?style=for-the-badge&logo=shield&logoColor=white" alt="Privacy"></a>
+  <a href="https://github.com/karacocukk/homebrew-neotiler"><img src="https://img.shields.io/badge/Homebrew-Available-FBBF24?style=for-the-badge&logo=homebrew&logoColor=black" alt="Homebrew"></a>
 </p>
 
 <p align="center">
@@ -202,11 +203,28 @@ No subscriptions. No hidden fees. No upsells.
 
 ## 📋 Installation
 
+### Option 1: Via Homebrew (Recommended for Developers)
+
+Install directly with a single Terminal command:
+
+```bash
+brew install karacocukk/neotiler/neotiler
+```
+
+Or add the official tap first:
+
+```bash
+brew tap karacocukk/neotiler
+brew install --cask neotiler
+```
+
+### Option 2: Direct Download
+
 1. **Download** NeoTiler from [getneotiler.com](https://getneotiler.com?utm_source=github&utm_medium=readme&utm_campaign=public_repo) or the [Releases](https://github.com/karacocukk/neotiler-mac-window-manager/releases) page
 2. **Open** the `.dmg` file and drag NeoTiler to Applications
 3. **Launch** NeoTiler, and it will appear in your menu bar
 4. **Grant** Accessibility permission when prompted
-5. **Start snapping** windows with keyboard shortcuts or drag-to-edge!
+5. **Start snapping** windows with keyboard shortcuts, trackpad gestures, or drag-to-edge!
 
 ---
 
